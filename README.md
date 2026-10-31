@@ -3,7 +3,10 @@
 
 **Course:** Operating Systems and Systems Programming (OSSP)
 
-**Author:** Buddarthi Srivalli
+**Project Team:** 
+Srivalli
+Shanmukhi
+Rohita
 
 **Platform:** Ubuntu 24.04.4 LTS (WSL2)
 
